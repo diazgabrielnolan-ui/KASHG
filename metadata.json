@@ -1,0 +1,6 @@
+{
+  "name": "KashG - Student Allowance & Baon Tracker",
+  "description": "Smart student allowance, baon budgeting, and expense tracker tailored for university students with daily safe-to-spend analytics and Ipon pots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
